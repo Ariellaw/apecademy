@@ -1,7 +1,17 @@
 {
-  "plugins": ["-fontsettings"],
+  "plugins": [
+    "-fontsettings",
+    "-sharing",
+    "edit-link"
+  ],
   "styles": {
     "website": "styles/website.css"
   },
-  "title": "Apecademy | Monkey Test It"
+  "title": "Apecademy | Monkey Test It",
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/monkeytestit/apecademy/edit/master",
+      "label": "Edit This Page"
+    }
+  }
 }
