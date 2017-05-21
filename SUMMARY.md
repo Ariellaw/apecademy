@@ -1,11 +1,11 @@
 ### Summary
 
 * [Introduction](README.md)
-* [Contribute](https://github.com/monkeytestit/apecademy)
+* [Contribute](pages/summary/contribute.md)
 
 ### Common bugs
-* [Broken links]()
-* [JavaScript errors]()
+* [Broken links](pages/bugs/brokenlinks.md)
+* [JavaScript errors](pages/bugs/javascript.md)
 
 ### SEO
 * [Page title]()

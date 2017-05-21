@@ -7,6 +7,11 @@
   text-transform: capitalize !important;
 }
 
+.page-title {
+  font-weight: 600;
+  font-size: 2em;
+}
+
 /*.book.with-summary .book-summary{
   left: 85% !important;
 }*/

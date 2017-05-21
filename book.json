@@ -2,7 +2,8 @@
   "plugins": [
     "-fontsettings",
     "-sharing",
-    "edit-link"
+    "edit-link",
+    "hints"
   ],
   "styles": {
     "website": "styles/website.css"
