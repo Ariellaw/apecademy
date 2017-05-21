@@ -8,11 +8,12 @@
 * [JavaScript errors](pages/bugs/javascript.md)
 
 ### SEO
-* [Page title]()
-* [Page description]()
-* [H1 tags]()
+<!--* [Page title]()
+* [Page description]()-->
+* [H1 tags](pages/search-engine-optimization/heading.md)
+* [Image Alt Text](pages/search-engine-optimization/img.md)
 
-
+<!--
 ### Performance
 * [Page weight]()
 * [Asset Count]()
@@ -20,7 +21,7 @@
 
 
 ### Security
-* [SSL Safety]()
+* [SSL Safety]()-->
 
 
 * [Monkey Test It](https://monkeytest.it)
